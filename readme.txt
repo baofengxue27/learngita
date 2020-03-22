@@ -1,2 +1,2 @@
 git is a distributed  version control system.
-tit is free software.
+git is free software distributed under thi GPL.
